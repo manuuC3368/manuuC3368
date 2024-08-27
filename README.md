@@ -1,6 +1,7 @@
 ## Hi there 👋
 # Hola, Soy Manuela 
-![image](https://github.com/user-attachments/assets/f72fc8e8-d096-4730-bd88-e75a5d94d60a)
+![image](https://github.com/user-attachments/assets/de78131f-2ebd-4219-b961-fcb912af651d)
+
 
 
 
