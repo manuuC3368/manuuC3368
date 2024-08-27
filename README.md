@@ -1,6 +1,7 @@
 ## Hi there 👋
 # Hola, Soy Manuela 
-![image](https://github.com/user-attachments/assets/76fda2de-e4f8-4504-81b7-e7585f8aa5c0)
+![image](https://github.com/user-attachments/assets/f72fc8e8-d096-4730-bd88-e75a5d94d60a)
+
 
 
 # 🌱 Aspiring Developer | Learning GitHub & Coding Basics | Managment of International Logistics and Marketing student in Universidad de La Sabana 
